@@ -1,0 +1,11 @@
+.env
+.DS_Store
+state.json
+
+#Hardhat files
+cache
+artifacts
+node_modules
+.yarn
+
+.*
